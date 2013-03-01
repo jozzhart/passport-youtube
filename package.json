@@ -1,0 +1,45 @@
+{
+  "name": "passport-youtube",
+  "version": "0.0.1",
+  "description": "Youtube OAuth2 authentication strategy for Passport.  Based on the passport-oath module",
+  "keywords": [
+    "passport",
+    "oauth2",
+    "auth",
+    "authentication",
+    "youtube"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jozzhart/passport-youtube.git"
+  },
+  "bugs": {
+    "url": "http://github.com/jozzhart/passport-youtube/issues"
+  },
+  "author": {
+    "name": "Jozz Hart",
+    "email": "me@jozzhart.com",
+    "url": "http://www.jozzhart.com/"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./lib/passport-oauth",
+  "dependencies": {
+    "pkginfo": "0.2.x",
+    "passport": "~0.1.1",
+    "oauth": "0.9.x"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "readme": "",
+  "_id": "passport-youtube@0.0.1"
+}
