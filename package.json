@@ -1,6 +1,6 @@
 {
   "name": "passport-youtube",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Youtube OAuth2 authentication strategy for Passport.  Based on the passport-facebook module",
   "keywords": [
     "passport",
@@ -30,7 +30,8 @@
   "main": "./lib/passport-youtube",
   "dependencies": {
     "pkginfo": "0.2.x",
-    "passport-oauth": "0.1.14"
+    "passport": "~0.1.1",
+    "oauth": "0.9.x"
   },
   "devDependencies": {},
   "scripts": {},
@@ -38,6 +39,6 @@
     "node": ">= 0.8.0"
   },
   "readme": "passport-youtube\n================\n\nYoutube strategy for passport",
-  "_id": "passport-youtube@0.0.2",
-  "_from": "passport-youtube@0.0.2"
+  "_id": "passport-youtube@0.0.4",
+  "_from": "passport-youtube@0.0.4"
 }
