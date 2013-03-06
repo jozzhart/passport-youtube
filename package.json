@@ -30,8 +30,7 @@
   "main": "./lib/passport-youtube",
   "dependencies": {
     "pkginfo": "0.2.x",
-    "passport": "~0.1.1",
-    "oauth": "0.9.x"
+    "passport-oauth": "~0.1.2"
   },
   "devDependencies": {},
   "scripts": {},
@@ -39,6 +38,6 @@
     "node": ">= 0.8.0"
   },
   "readme": "passport-youtube\n================\n\nYoutube strategy for passport",
-  "_id": "passport-youtube@0.0.1",
+  "_id": "passport-youtube@0.0.3",
   "_from": "passport-youtube@"
 }
