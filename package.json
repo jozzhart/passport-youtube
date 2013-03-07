@@ -1,6 +1,6 @@
 {
   "name": "passport-youtube",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Youtube OAuth2 authentication strategy for Passport.  Based on the passport-facebook module",
   "keywords": [
     "passport",
@@ -31,7 +31,8 @@
   "dependencies": {
     "pkginfo": "0.2.x",
     "passport": "~0.1.1",
-    "oauth": "0.9.x"
+    "oauth": "0.9.x",
+    "passport-oauth": ""
   },
   "devDependencies": {},
   "scripts": {},
