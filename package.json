@@ -29,17 +29,14 @@
   ],
   "main": "./lib/passport-youtube",
   "dependencies": {
-    "pkginfo": "0.2.x",
-    "passport": "~0.1.1",
-    "oauth": "0.9.x",
-    "passport-oauth": ""
+    "passport-oauth": "0.1.14"
   },
   "devDependencies": {},
   "scripts": {},
   "engines": {
-    "node": ">= 0.8.0"
+    "node": ">= 0.8.5"
   },
   "readme": "passport-youtube\n================\n\nYoutube strategy for passport",
-  "_id": "passport-youtube@0.0.4",
-  "_from": "passport-youtube@0.0.4"
+  "_id": "passport-youtube@0.0.5",
+  "_from": "passport-youtube@0.0.5"
 }
