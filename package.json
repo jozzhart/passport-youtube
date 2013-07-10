@@ -1,6 +1,6 @@
 {
   "name": "passport-youtube",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Youtube OAuth2 authentication strategy for Passport.  Based on the passport-facebook module",
   "keywords": [
     "passport",
