@@ -3,6 +3,9 @@ passport-youtube
 
 Youtube strategy for passport
 
+## Unsupported
+
+I'm not currently actively supporting this, but happy to take pull requests or hand-over to another contributor.
 
 
 ## Install
