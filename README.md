@@ -7,6 +7,8 @@ Youtube strategy for passport
 
 I'm not currently actively supporting this, but happy to take pull requests or hand-over to another contributor.
 
+[passport-youtube-v3](https://github.com/yanatan16/passport-youtube-v3) supports the YouTube v3 API.
+
 
 ## Install
 
